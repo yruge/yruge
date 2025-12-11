@@ -1,4 +1,12 @@
-## Hi there 👋
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29mM2F2azB0d2t1MXU2dHdseXV2b292cHI1aGl2aTd5Z2lkZDZzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LtTChIH4jDHSZha5AJ/giphy.gif" width="100px" align="right">
+### Hey there!
+
+I'm jason , a web developer based in Indonesia.
+
+I build full stack projects.
+
+My main tech stack is, react, next.js, typescript, css, javascript
+
 
 <!--
 **yruge/yruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
